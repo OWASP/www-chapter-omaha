@@ -2,5 +2,5 @@
 * Chapter Region
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Twitter](https://twitter.com/owaspomaha)
+-->
