@@ -43,7 +43,7 @@ copy of his new book.
 **Notes:** This event will be a pay as you go for food and beverage.
 Please don't forget to close your tab at the end of the meeting.
 
-## Past Events / Presentations
+## Past Presentations
 
 ### Aug 24, 2018 - Exploiting CORS and Beyond
 
