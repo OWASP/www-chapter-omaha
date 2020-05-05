@@ -1,9 +1,9 @@
 ---
-title: Meetings - OWASP Omaha
+title: Meetings
 layout:  null
 tab: true
 order: 2
-tags: Meetings
+tags: meetings
 ---
 
 ## Next Chapter Meeting
