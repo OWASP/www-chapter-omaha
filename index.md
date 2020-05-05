@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Omaha
-tags: Home About Events Meetings History 
+tags: About Events Meetings History 
 level: 0
 
 region: United States
