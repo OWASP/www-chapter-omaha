@@ -3,7 +3,7 @@ title: Donate
 layout:  null
 tab: true
 order: 5
-tags: Donate
+tags: donate
 ---
 
 ## Donate to OWASP
