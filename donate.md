@@ -1,11 +1,9 @@
 ---
-
 title: Donate
 layout:  null
 tab: true
 order: 5
 tags: Donate
-
 ---
 
 ## Donate to OWASP
