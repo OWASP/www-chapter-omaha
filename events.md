@@ -1,9 +1,9 @@
 ---
-title: Example
+title: Events - OWASP Omaha
 layout:  null
 tab: true
-order: 1
-tags: example-tag
+order: 3
+tags: Events
 ---
 
 ## Example
