@@ -6,6 +6,8 @@ order: 3
 tags: events
 ---
 
-## Coming soon!
+
+## Coming Soon!
 
 This page is in the works!
+

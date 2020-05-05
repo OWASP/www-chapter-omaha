@@ -8,4 +8,5 @@ tags: history
 
 ## Coming Soon!
 
-This page is in the works!
+This page is still being built!
+

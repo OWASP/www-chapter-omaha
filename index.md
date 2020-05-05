@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Omaha
-tags: about events meetings history 
+tags: about events meetings history donate
 level: 0
 
 region: United States
@@ -49,6 +49,7 @@ This separate file is where you should place links to your Google Group and Meet
 Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
 
 -->
+
 ## Welcome
 
 Thank you for visiting the OWASP Omaha Chapter website! Here, you'll find all the latest information about the OWASP Omaha Chapter including the leadership team members, the chapter board members, information about meetings, speakers, events, and so much more! Stay a while and look around. If you have any feedback for improving the site or want to submit a potential talk, please contact us using the email links in the side bar. We'd love to solicit new speakers and will work on automating talk submissions in the future.
