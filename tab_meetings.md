@@ -9,7 +9,7 @@ tags: meetings
 ## Next Chapter Meeting
 
 **Presenter**: John M. Rogers, Lincoln Financial Group  
-**Description**: Software Composition Analysis  
+**Description**: Patch or Die 
 **Date**: May 20, 2020  
 **Time**: 7:00 PM Central  
 **Location**: Virtual (Zoom meeting details sent as a calendar invite/email)  
