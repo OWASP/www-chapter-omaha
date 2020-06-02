@@ -8,14 +8,22 @@ tags: meetings
 
 ## Next Chapter Meeting
 
-**Presenter**: John M. Rogers, Lincoln Financial Group  
-**Description**: Patch or Die 
-**Date**: May 20, 2020  
-**Time**: 7:00 PM Central  
-**Location**: Virtual (Zoom meeting details sent as a calendar invite/email)  
+**Presenter**: TBD  
+**Description**: TBD 
+**Date**: TBD  
+**Time**: TBD  
+**Location**: TBD 
 
 
 ## Past Presentations
+
+### May 20, 2020 - Patch or Die
+
+**Presenter**: John M. Rogers, Lincoln Financial Group
+**Description**: John walks us through the security implications of  
+Software Composition Analysis and the importance of keeping software  
+components up to date.  
+**Slides**: <https://drive.google.com/file/d/1RMirvb2gtcdhXTUxpuiw4sU-lWxLclP3/view?usp=sharing>
 
 ### Nov 12, 2019 - ELF Binary Analysis Introduction (combined meeting with DC402)
 
