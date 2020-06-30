@@ -26,4 +26,3 @@ Research and Presentation topics have included Offensive Phython, Web Services T
 
 After a short hiatutus during 2019, the Omaha OWASP chapter has started peridioc chapter meetings with the Defcon 402 chapter.
 
-
