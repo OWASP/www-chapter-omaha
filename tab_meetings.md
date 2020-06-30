@@ -9,10 +9,10 @@ tags: meetings
 ## Next Chapter Meeting
 
 **Presenter**: TBD  
-**Description**: TBD  
+**Description**: TBD 
 **Date**: TBD  
-**Time**: TBD    
-**Location**: TBD  
+**Time**: TBD  
+**Location**: TBD 
 
 
 ## Past Presentations
@@ -24,7 +24,6 @@ tags: meetings
 Software Composition Analysis and the importance of keeping software  
 components up to date.  
 **Slides**: <https://drive.google.com/file/d/1RMirvb2gtcdhXTUxpuiw4sU-lWxLclP3/view?usp=sharing>
-
 
 ### Nov 12, 2019 - ELF Binary Analysis Introduction (combined meeting with DC402)
 
