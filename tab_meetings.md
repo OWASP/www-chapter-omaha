@@ -8,14 +8,31 @@ tags: meetings
 
 ## Next Chapter Meeting
 
-**Presenter**: Jeff Williams, Co-Founder/CTO, Contrast Security  
-**Description**: Software is incredibly hard to secure because it's a black box. We've spent decades trying to verify properties of software by analyzing the source code, scanning, fuzzing, pentesting, etc...  The goal of "security observability" is to expose exactly what's going on inside an application while it's running.  In this talk, you'll learn how to use the free and open source Java Sensor Toolkit (JST) project to easily create your own powerful runtime instrumentation without coding. You can use JST to analyze security defenses, identify complex vulnerabilities, create custom sandboxes, and enforce policy at runtime. You can create your own IAST tests and your own RASP defenses.  Ultimately, security observability allows Dev, Sec, and Ops teams to work together in harmony, so you can focus on delivering value at high velocity.  
-**Date**: August 12, 2020  
-**Time**: 7:00 PM CDT  
-**Location**: Virtual Meeting via Zoom (Meeting info sent via email) 
+**Presenter**: TBD  
+**Description**: TBD  
+**Date**: TBD  
+**Time**: TBD  
+**Location**: TBD  
 
 
 ## Past Presentations
+
+### August 12, 2020 - Instrumentation Application Security Testing using the Java Sensor Toolkit (JST)
+
+**Presenter**: Jeff Williams, Co-Founder/CTO, Contrast Security  
+**Description**: Software is incredibly hard to secure because it's a  
+black box. We've spent decades trying to verify properties of software  
+by analyzing the source code, scanning, fuzzing, pentesting, etc...  The  
+goal of "security observability" is to expose exactly what's going on  
+inside an application while it's running.  In this talk, you'll learn  
+how to use the free and open source Java Sensor Toolkit (JST) project  
+to easily create your own powerful runtime instrumentation without  
+coding. You can use JST to analyze security defenses, identify complex  
+vulnerabilities, create custom sandboxes, and enforce policy at runtime.  
+You can create your own IAST tests and your own RASP defenses.  Ultimately,  
+security observability allows Dev, Sec, and Ops teams to work together in harmony,  
+so you can focus on delivering value at high velocity.  
+**Slides**: <https://drive.google.com/file/d/162ge3qPcf5zVlkTHuARkNVMAslEoB8El/view?usp=sharing>  
 
 ### May 20, 2020 - Patch or Die
 
