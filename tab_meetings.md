@@ -14,8 +14,8 @@ Our next chapter meeting will be a combined meeting with NEbraska CERT and the i
 **Description**: NEbraska CERT Joint Meeting  
 **Date**: November 18, 2020  
 **Time**: 11:30 AM  
-**Location**: Online: https://gmail.us20.list-manage.com/track/click?u=53b05ae38cbbce416fefb5c17&id=d38758efec&e=c55ee20bdd  
-**RSVP**: https://gmail.us20.list-manage.com/track/click?u=53b05ae38cbbce416fefb5c17&id=edd859f557&e=c55ee20bdd by COB November 17, 2020  
+**Location**: Online: Check your email for details  
+**RSVP**: Check your email for the RSVP URL and RSVP by COB November 17, 2020  
 
 
 ## Past Presentations
