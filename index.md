@@ -5,7 +5,7 @@ title: OWASP Omaha
 tags: about events meetings donate
 level: 0
 
-region: United States
+region: North America
 
 ---
 
