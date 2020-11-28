@@ -20,9 +20,4 @@ The following individuals have participated as chapter leaders since the reboot:
 * Justin Williams
 * Dave Pinos
 
-Omaha OWASP has been very active in presenting at events like Nebraska Code Camp, NebraskaCERT, and the Nebraska Cyber Security Conference.
-
-Research and Presentation topics have included Offensive Phython, Web Services Testing Cheat Sheet, and Mobile Application Security.
-
-After a short hiatutus during 2019, the Omaha OWASP chapter has started peridioc chapter meetings with the Defcon 402 chapter.
-
+Omaha OWASP has been very active in presenting at events like Nebraska Code Camp, NebraskaCERT, and the Nebraska Cyber Security Conference. Research and Presentation topics have included Offensive Phython, Web Services Testing Cheat Sheet, Mobile Application Security, Binary Analysis, Open Source Tools for application security testing, and many more.
