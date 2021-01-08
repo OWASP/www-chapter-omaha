@@ -8,12 +8,14 @@ tags: meetings
 
 ## Next Chapter Meeting
 
-**Presenter**: TBD
-**Description**: TBD
-**Date**: TBD
-**Time**: TBD
-**Location**: TBD
-**RSVP**: TBD
+
+**Presenter**: TBD  
+**Description**: TBD  
+**Date**: TBD  
+**Time**: TBD  
+**Location**: TBD  
+**RSVP**: TBD  
+
 
 
 ## Past Presentations
