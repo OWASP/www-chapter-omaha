@@ -8,17 +8,20 @@ tags: meetings
 
 ## Next Chapter Meeting
 
-Our next chapter meeting will be a combined meeting with NEbraska CERT and the information is as follows:  
-
-**Presenter**: Joint Meeting: A Panel Q&A (emphasis on Government's role in CyberSecurity)  
-**Description**: NEbraska CERT Joint Meeting  
-**Date**: November 18, 2020  
-**Time**: 11:30 AM  
-**Location**: Online: Check your email for details  
-**RSVP**: Check your email for the RSVP URL and RSVP by COB November 17, 2020  
+**Presenter**: TBD
+**Description**: TBD
+**Date**: TBD
+**Time**: TBD
+**Location**: TBD
+**RSVP**: TBD
 
 
 ## Past Presentations
+
+### November 18, 2020
+
+**Presenter**: Joint Meeting: A Panel Q&A (emphasis on Government's role in CyberSecurity)  
+**Description**: NEbraska CERT Joint Meeting  
 
 ### August 12, 2020 - Instrumentation Application Security Testing using the Java Sensor Toolkit (JST)
 
