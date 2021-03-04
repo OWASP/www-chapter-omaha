@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Omaha
 tags: about events meetings donate
 level: 0
-
+meetup-group: owaspomaha-meetup-group
 region: North America
 
 ---
