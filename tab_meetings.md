@@ -9,12 +9,12 @@ tags: meetings
 ## Next Chapter Meeting
 
 
-**Presenter**: TBD  
-**Description**: TBD  
-**Date**: TBD  
-**Time**: TBD  
-**Location**: TBD  
-**RSVP**: TBD  
+**Presenter**: N/A  
+**Description**: Q1 Chapter Meeting  
+**Date**: March 24, 2021  
+**Time**: 6:30 PM Central  
+**Location**: Virtual/Online  
+**RSVP**: https://www.meetup.com/owaspomaha-meetup-group/events/276733743/  
 
 
 
