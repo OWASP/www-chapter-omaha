@@ -9,16 +9,25 @@ tags: meetings
 ## Next Chapter Meeting
 
 
-**Presenter**: N/A  
-**Description**: Q1 Chapter Meeting  
-**Date**: March 24, 2021  
-**Time**: 6:30 PM Central  
+**Presenter**: TBD  
+**Description**: Q2 Chapter Meeting TBD  
+**Date**: TBD  
+**Time**: TBD  
 **Location**: Virtual/Online  
-**RSVP**: https://www.meetup.com/owaspomaha-meetup-group/events/276733743/  
+**RSVP**: TBD  
 
 
 
 ## Past Presentations
+
+### March 24, 2021
+
+**Presenter**: Michael Born, Chapter Leader  
+**Description**: Q1 Chapter Meeting, 2021 kickoff, introductions, and  
+to discuss the 2021 plan for the chapter while soliciting feedback. This  
+was a fairly laid back meeting to solicit feedback from attendees about  
+what they would like to see from the chapter in 2021.
+
 
 ### November 18, 2020
 
