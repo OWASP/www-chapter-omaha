@@ -15,7 +15,7 @@ postal-code: 68130
 
 Thank you for visiting the OWASP Omaha Chapter website! Here, you'll find all the latest information about the OWASP Omaha Chapter including the leadership team members, the chapter board members, information about meetings, speakers, events, and so much more! Stay a while and look around. If you have any feedback for improving the site or want to submit a potential talk, please contact us using the email links in the side bar. We'd love to solicit new speakers and will work on automating talk submissions in the future.
 
-Thank you for being part of this great OWASP Chapter and we hope you continue to show your support through OWASP membership or Chapter donations. We appreciate all of you and your diversified skills and hope to continue to provide technical talks that can broaden anyone's knowledge. Don't be afraid to 
+Thank you for being part of this great OWASP Chapter and we hope you continue to show your support through OWASP membership or Chapter donations. We appreciate all of you and your diversified skills and hope to continue to provide technical talks that can broaden anyone's knowledge. Don't be afraid to volunteer to speak at quarterly chapter meetings either, or reach out to the leaders or board members with questions.
 
 ## Participation
 
