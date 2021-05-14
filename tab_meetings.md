@@ -9,22 +9,23 @@ tags: meetings
 ## Next Chapter Meeting
 
 
-**Presenter**: Aaron Clark (CryptoJones)  
-**Description**: Q2 Meeting - Introduction to the OWASP Top 10  
-**BIO**: CryptoJones is a lifelong student and sometimes a teacher. He is interested in many things, but professionally his focus has been on Information Technology, Software Engineering, and Cybersecurity.  
-He is currently taking classes on edX for the Rochester Institute of Technology’s Advanced Graduate Certificate in Cybersecurity.  
-He has been awarded graduate certificates in Information Technology Project Management from Colorado State University and Computer Science Foundations from Kennesaw State University.  
-He received a Bachelor's degree in Computer and Information Science and an Undergraduate Certificate in Unix System Administration from the University of Maryland University College.  
-Originally from Houston, Texas, he has lived in Nebraska since 2008, after being stationed in Washington, D.C. for five years as an enlisted Marine. He is the proud father of two sons.  
-In his spare time he enjoys traveling the world, working on carpentry projects in his shop, maintaining his home lab, and playing the greatest Tabletop role-playing game ever made; Alternity (1998).  
-**Date**: May 12, 2021  
-**Time**: 6:00 PM CDT  
-**Location**: Virtual/Online  
-**RSVP**: https://www.meetup.com/owaspomaha-meetup-group/events/277824845/  
+**Presenter**: TBD  
+**Description**: Q3 Meeting - TBD  
+**Date**: TBD  
+**Time**: TBT  
+**Location**: TBD  
+**RSVP**: TBD  
 
 
 
 ## Past Presentations
+
+### May 12, 2021
+
+**Presenter**: Aaron Clark (CryptoJones)  
+**Description**: Q2 Meeting - Introduction to the OWASP Top 10  
+**Slides**: https://github.com/CryptoJones/OWASP-OMAHA-QTR2-MTG  
+
 
 ### March 24, 2021
 
