@@ -9,12 +9,12 @@ tags: meetings
 ## Next Chapter Meeting
 
 
-**Presenter**: TBD  
-**Description**: Q3 Meeting - TBD  
-**Date**: TBD  
-**Time**: TBT  
-**Location**: TBD  
-**RSVP**: TBD  
+**Presenter**: Michael Born  
+**Description**: Q3 Meeting: Security Innovation Boot Camp and Cyber Range event kick off  
+**Date**: August 25, 2021  
+**Time**: 6:30 PM CDT  
+**Location**: Virtual Zoom Meeting  
+**RSVP**: https://bit.ly/3wy1951  
 
 
 
