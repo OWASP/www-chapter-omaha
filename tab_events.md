@@ -10,7 +10,7 @@ tags: events
 ## Next OWASP Omaha Chapter Event
 
 **Title**: Security Innoation Boot Camp and Cyber Range  
-**Kick Off**: August 25, 6:30 PM CDT via Zoom
+**Kick Off**: August 25, 6:30 PM CDT via Zoom  
 **Event Start**: August 26, 2021  
 **Event End**: September 25, 2021  
 **Description**: Instructor run Boot Camp and hands on Cyber Range made available for free to OWASP Omaha  
