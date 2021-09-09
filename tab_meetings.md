@@ -10,15 +10,20 @@ tags: meetings
 
 
 **Presenter**: Michael Born  
-**Description**: Q3 Meeting: Security Innovation Boot Camp and Cyber Range event kick off  
-**Date**: August 25, 2021  
+**Description**: Q4 Meeting: Securing your Applications with the OWASP Application Security Verification Standard  
+**Date**: November 10, 2021  
 **Time**: 6:30 PM CDT  
 **Location**: Virtual Zoom Meeting  
-**RSVP**: https://bit.ly/3wy1951  
+**RSVP**: https://www.meetup.com/owaspomaha-meetup-group/events/280673562/  
 
 
 
 ## Past Presentations
+
+### August 25, 2021
+
+**Presenter**: Michael Born  
+**Description**: Q3 Meeting: Security Innovation Boot Camp and Cyber Range event kick off  
 
 ### May 12, 2021
 
