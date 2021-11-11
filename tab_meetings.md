@@ -9,16 +9,24 @@ tags: meetings
 ## Next Chapter Meeting
 
 
-**Presenter**: Michael Born  
-**Description**: Q4 Meeting: Securing your Applications with the OWASP Application Security Verification Standard  
-**Date**: November 10, 2021  
-**Time**: 6:30 PM CDT  
-**Location**: Virtual Zoom Meeting  
-**RSVP**: https://www.meetup.com/owaspomaha-meetup-group/events/280673562/  
+**Presenter**: TBD  
+**Description**: TBD Q1 2022  
+**Date**: TBD  
+**Time**: TBD  
+**Location**: TBD  
+**RSVP**: TBD  
 
 
 
 ## Past Presentations
+
+### November 10, 2021
+
+**Presenter**: Michael Born  
+**Description**: Q4 Meeting: Securing your Applications with the OWASP Application Security Verification Standard  
+**Video**: https://youtu.be/APoYDJ4SRAE  
+**Slides**: https://shorturl.at/gqCMR  
+
 
 ### August 25, 2021
 
