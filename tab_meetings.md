@@ -24,8 +24,8 @@ tags: meetings
 
 **Presenter**: Michael Born  
 **Description**: Q4 Meeting: Securing your Applications with the OWASP Application Security Verification Standard  
-**Video**: https://youtu.be/APoYDJ4SRAE  
-**Slides**: https://shorturl.at/gqCMR  
+**Video**: <https://youtu.be/APoYDJ4SRAE>  
+**Slides**: <https://shorturl.at/gqCMR>  
 
 
 ### August 25, 2021
@@ -37,7 +37,7 @@ tags: meetings
 
 **Presenter**: Aaron Clark (CryptoJones)  
 **Description**: Q2 Meeting - Introduction to the OWASP Top 10  
-**Slides**: https://github.com/CryptoJones/OWASP-OMAHA-QTR2-MTG  
+**Slides**: <https://github.com/CryptoJones/OWASP-OMAHA-QTR2-MTG>  
 
 
 ### March 24, 2021
