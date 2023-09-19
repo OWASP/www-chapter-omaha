@@ -6,7 +6,7 @@ tags: about events meetings donate
 level: 0
 meetup-group: owaspomaha-meetup-group
 region: North America
-country: United States
+country: USA
 currency: usd
 postal-code: 68130
 
